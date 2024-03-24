@@ -1,27 +1,2 @@
-# Nombre del Proyecto
-
-Descripción breve del proyecto.
-
-## Instalación
-
-Pasos para instalar el proyecto.
-
-## Uso
-
-Ejemplos de cómo usar el proyecto.
-
-## Contribución
-
-Guía para contribuir al proyecto.
-
-## Reporte de Problemas
-
-Cómo reportar problemas o errores.
-
-## Créditos
-
-Agradecimientos y reconocimientos.
-
-## Licencia
-
-Este proyecto está licenciado bajo [Licencia XYZ](URL).
+## **Título en negrita y un poco más grande**
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
